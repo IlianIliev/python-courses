@@ -8,3 +8,9 @@ Go take a look at the `books.md` and `courses.md`, pick one and start learning.
 
 ## I want to help the project, what can I do?
 Take a look at the existing courses, books etc. If you see something that you want to add, something incorrect or anything just open an issue or a pull request with the required changes.
+
+
+## TODOs
+- add a list of IDEs
+- add a list of Tutorials
+- add a list of things to learn in parallel (git, algorithms, databases)
