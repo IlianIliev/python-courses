@@ -8,6 +8,8 @@
 - [Invent With Python](http://inventwithpython.com/) - free online
 - [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 - [Effective Python](http://www.effectivepython.com/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
 
 
 ## For Experienced
