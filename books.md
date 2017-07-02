@@ -2,7 +2,7 @@
 
 
 ## For Beginners
-- [Learn Python The Hard Way](https://learnpythonthehardway.org/) - free online
+- [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/) - free online
 - [Think Python](http://greenteapress.com/wp/think-python-2e/)
 - [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
 - [Invent With Python](http://inventwithpython.com/) - free online
@@ -24,7 +24,3 @@
   - [Obey The Testing Goat](http://www.obeythetestinggoat.com/)
   - [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do)
   - [High Performance Django](https://highperformancedjango.com/)
-
-
-## Others
-- [List of Python books at the "Free programming books" repo](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
