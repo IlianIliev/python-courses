@@ -24,3 +24,7 @@
   - [Obey The Testing Goat](http://www.obeythetestinggoat.com/)
   - [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do)
   - [High Performance Django](https://highperformancedjango.com/)
+
+
+## Others
+- [List of Python books at the "Free programming books" repo](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
