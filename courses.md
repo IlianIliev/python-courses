@@ -9,3 +9,5 @@
 - [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython)
 - [Programming for Everybody (for absolute beginners)](https://www.coursera.org/course/pythonlearn)
 - [Python from Zero to Hero](https://www.udemy.com/complete-python-bootcamp/)
+- [Learn Python 3 Programming at a Snail's Pace - Part 1](https://www.udemy.com/learn-python-3-programming-at-a-snails-pace-part-1/?couponCode=FACEBOOK-PY)
+
