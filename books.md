@@ -29,3 +29,4 @@
 
 - Flask
   - [The Full Stack Python Guide to Deployments](https://gumroad.com/l/python-deployments-solo)
+  - [The New and Improved Flask Mega-Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial) - ebook and video tutorial
