@@ -25,3 +25,8 @@
   - [Obey The Testing Goat](http://www.obeythetestinggoat.com/)
   - [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do)
   - [High Performance Django](https://highperformancedjango.com/)
+
+
+- Flask
+  - [The Full Stack Python Guide to Deployments](https://gumroad.com/l/python-deployments-solo)
+  - [The New and Improved Flask Mega-Tutorial](https://courses.miguelgrinberg.com/p/flask-mega-tutorial) - ebook and video tutorial
