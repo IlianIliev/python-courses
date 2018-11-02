@@ -12,8 +12,6 @@ Take a look at the existing courses, books etc. If you see something that you wa
 
 
 ## TODOs
-- add a list of IDEs
-- add a list of Tutorials
 - add a list of things to learn in parallel (git, algorithms, databases)
 
-*This is an user curated list. The repository owner holds no responsibility for the quality or availability of the content. Feel free to report broken links or low quelity content.*
+*This is an user curated list. The repository owner holds no responsibility for the quality or availability of the content. Feel free to report broken links or low quality content.*
