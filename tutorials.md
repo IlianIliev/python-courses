@@ -11,3 +11,4 @@
 - [Multiple different tutorials, mostly Flask related](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ)
 - [Multiple Python related playlists](https://www.youtube.com/user/sentdex)
 - [Indian Pythonista - a list of basic Python tutorials](https://www.youtube.com/IndianPythonista)
+- [GUI Programming - video tutorials using PySimpleGUI](https://www.youtube.com/playlist?list=PLl8dD0doyrvHMoJGTdMtgLuHymaqJVjzt)
