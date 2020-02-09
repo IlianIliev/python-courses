@@ -14,6 +14,7 @@
  ### Framework Specific
   - Django
     - [Tango with Django](http://www.tangowithdjango.com/)
+    - [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course)
 
 
   - Flask
@@ -35,7 +36,7 @@
 
  ### Framework Specific
   - Django
-    - [Two Scoops Of Django](https://www.twoscoopspress.com/)
+    - [Two Scoops Of Django](https://www.roygreenfeld.com/collections/two-scoops-press)
     - [Obey The Testing Goat](http://www.obeythetestinggoat.com/)
     - [Lightweight Django](http://shop.oreilly.com/product/0636920032502.do)
     - [High Performance Django](https://highperformancedjango.com/)
