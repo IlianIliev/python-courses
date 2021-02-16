@@ -10,4 +10,5 @@
 - [Programming for Everybody (for absolute beginners)](https://www.coursera.org/course/pythonlearn)
 - [Python from Zero to Hero](https://www.udemy.com/complete-python-bootcamp/)
 - [Learn Python 3 Programming at a Snail's Pace - Part 1](https://www.udemy.com/learn-python-3-programming-at-a-snails-pace-part-1/?couponCode=FACEBOOK-PY)
-
+- [Programming in Python (Basics to Advanced)](https://www.youtube.com/playlist?list=PLWF9TXck7O_wMDB-VriREZ6EvwkWLNB7q)
+- [Object-Oriented Programming in Python](https://www.youtube.com/playlist?list=PLWF9TXck7O_zuU2_BVUTrmGMCXYSYzjku)
