@@ -8,6 +8,7 @@
 
 
 ## Video tutorials
+- [Any content related to Python](http://www.youtube.com/c/AlpNixTech)
 - [Multiple different tutorials, mostly Flask related](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ)
 - [Multiple Python related playlists](https://www.youtube.com/user/sentdex)
 - [Indian Pythonista - a list of basic Python tutorials](https://www.youtube.com/IndianPythonista)
